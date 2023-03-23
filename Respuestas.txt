@@ -1,0 +1,8 @@
+2-f).No se puede ver el archivo "tp2_1_2.c". Al cambiar de rama y crear este archivo en dicha rama, la rama main desconoce de los cambios
+llegados a aplicar en la rama actual. Solo existe en la rama creada
+
+.Al crear este archivo de text en la rama main, se puede ver en la interfaz grafica que la rama "Opcion_2" no forma parte de estos cambios
+y su unico archivo correspondiente es el archivo de C que le fue creado
+
+.Al aplicar el comando "merge", en la interfaz grafica se puede observar como el "arbol" con las distintas ramas, une las ramas "main" y
+"Opcion_2", permitiendo que en la rama main se observen los archivos creados en la otra rama creada
